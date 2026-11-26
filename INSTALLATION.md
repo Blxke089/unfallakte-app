@@ -21,3 +21,11 @@ GitHub Pages auf einem kostenlosen GitHub-Konto benötigt ein öffentliches Repo
 
 ## Hinweise zu gespeicherten Akten
 Die Akten und Fotos liegen nur im Browser-Speicher des Geräts und sind derzeit nicht verschlüsselt. Sie werden nicht automatisch gesichert. Das Löschen der Website-Daten oder Deinstallieren kann gespeicherte Akten entfernen. Lade keine echten Unfallfotos oder persönlichen Daten in das GitHub-Repository hoch.
+
+
+## Berichte exportieren
+Öffne eine Unfallakte und tippe auf **Bericht exportieren**. In der Vorschau kannst du eine bearbeitbare Word-kompatible Datei laden oder über **PDF speichern / teilen** die Druck- und PDF-Funktion deines Geräts öffnen. Auf dem iPhone kannst du das PDF anschließend in „Dateien“ sichern oder aus der Teilen-Ansicht weitergeben. Der Export wird lokal auf dem Gerät erstellt. Unfallfotos werden in den Bericht übernommen; Bilder von Ausweisen und Karten werden aus Datenschutzgründen nicht automatisch beigefügt.
+
+
+## App-Updates
+Wenn ein Update verfügbar ist, zeigt die App beim nächsten Öffnen mittig die Neuerungen. Tippe auf **Update installieren**. Die App aktiviert die neue Version und startet automatisch neu; die lokal gespeicherten Akten bleiben erhalten. Dafür muss das Gerät online sein.
