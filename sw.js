@@ -1,4 +1,4 @@
-const CACHE_NAME = "unfallakte-shell-v1";
+const CACHE_NAME = "unfallakte-shell-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
