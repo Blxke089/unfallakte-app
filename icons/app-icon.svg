@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="32" x2="448" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171020"/>
+      <stop offset="1" stop-color="#07060a"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="134" y1="100" x2="382" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8b4fe"/>
+      <stop offset=".48" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#6b21a8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(170 190 -180 161 246 203)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="116" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="509" height="509" rx="114.5" stroke="url(#violet)" stroke-opacity=".48" stroke-width="3"/>
+  <path d="M256 86 385 132v93c0 90-52 154-129 197-77-43-129-107-129-197v-93l129-46Z" fill="#0b0810" stroke="url(#violet)" stroke-width="14" stroke-linejoin="round"/>
+  <text x="256" y="278" text-anchor="middle" fill="url(#violet)" font-family="Arial,sans-serif" font-size="84" font-weight="800" letter-spacing="-4">089</text>
+  <path d="M111 389h290" stroke="#fff" stroke-opacity=".13" stroke-width="3" stroke-linecap="round"/>
+</svg>

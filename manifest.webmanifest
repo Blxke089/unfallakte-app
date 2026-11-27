@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Unfallakte",
-  "short_name": "Unfallakte",
-  "description": "Unfälle dokumentieren, Fotos und wichtige Angaben sicher griffbereit halten.",
+  "name": "089 Unfallakte",
+  "short_name": "089 Unfallakte",
+  "description": "089 Unfallakte – Unfälle dokumentieren, Fotos und wichtige Angaben sicher griffbereit halten.",
   "lang": "de-DE",
   "start_url": "./index.html",
   "scope": "./",
